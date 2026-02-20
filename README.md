@@ -37,6 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge)
 
@@ -61,7 +62,6 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 
 
 ---
@@ -69,11 +69,25 @@
 ## 📂 Featured Projects
 | Project | Description | Tech Stack |
 |-------|------------|-----------|
-| [Epic-nz](https://github.com/mdismailahammedroman/Epic-nz) | Backend service for handling core business logic | Node.js, Express.js, MongoDB, Redis |
-| [Visa-Bot](https://github.com/mdismailahammedroman/Visa-Bot) | Automated bot for visa processing tasks | Node.js, Express.js, PostgreSQL |
+| [Epic-nz](https://github.com/mdismailahammedroman/Epic-nz) | Backend service for handling core business logic | Node.js, Express.js, MongoDB, Redis, VPS |
+| [Visa-Bot](https://github.com/mdismailahammedroman/Visa-Bot) | Automated bot for visa processing tasks | Node.js, Express.js, MongoDB, aws |
 | [Reid Recovery Service App](https://github.com/mdismailahammedroman/Reid-Recovery-Service-App) | Backend API for recovery service management | Node.js, Express.js, MongoDB, AWS |
 
 
+---
+
+## 💼 What I Do
+- Build scalable REST APIs  
+- Develop modern React / Next.js applications  
+- Design secure authentication systems  
+- Deploy full-stack apps to production  
+- Optimize performance & database architecture  
+
+---
+
+⭐ Always learning. Always building.
+
+---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdismailahammedroman/)
