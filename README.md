@@ -14,19 +14,23 @@
 ---
 
 ## 🛠️ Technologies & Tools
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" alt="Next.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" alt="Express.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redis.svg" alt="Redis" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" alt="Next.js" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" alt="Express.js" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redis.svg" alt="Redis" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" alt="TypeScript" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VS Code" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="TailwindCSS" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" alt="Firebase" width="30" height="30"/>
+
 
 ---
 
