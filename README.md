@@ -22,9 +22,7 @@
 ## 🛠 Languages and Tools
 <p align="left" style="line-height:60px;">
   <!-- Wrap icons in 2 rows for better spacing -->
-  <div style="display:inline-block; background:#0e75b6; border-radius:8px; padding:5px; margin:2px;">
-
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45" /></a> </div>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45" /></a> 
   <a href="https://backbonejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="BackboneJS" width="45" height="45" /></a>
   <a href="https://canvasjs.com" target="_blank"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="45" height="45" /></a>
   <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJS" width="45" height="45" /></a>
