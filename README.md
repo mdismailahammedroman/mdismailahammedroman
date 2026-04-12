@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Ismail Ahammed Roman</h1>
-<h3 align="center">Software Engineer (Backend Focus) | Node.js • TypeScript • PostgreSQL • AWS | Scalable APIs & Systems Bangladesh</h3>
+<h3 align="center">Software Engineer (Backend Focus) | Bangladesh</h3>
 
 <p align="center">
   <img src="https://github.com/mdismailahammedroman/your-repo/blob/main/avatar.gif?raw=true" alt="Md. Ismail Roman" width="150"/>
