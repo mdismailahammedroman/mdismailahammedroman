@@ -1,4 +1,4 @@
-<p align="center" style="font-size:32px; font-weight:bold; color:white;">
+<p align="center" font-weight:bold; color:white;">
   Hi 👋, I'm Md. Ismail Ahammed Roman
 </p>
 <h3 align="center">Software Engineer (Backend Focus) | Bangladesh</h3>
@@ -12,9 +12,13 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
 
 ## 🌱 About Me
-- 🔭 Currently working on [Visa-bot](https://github.com/mdismailahammedroman/Visa-bot)  
+- 🔭 Currently working on [Betopia Group]
 - 🌱 Learning **Go, Python, DevOps & trending full-stack technologies**  
 - 👯 Looking to collaborate on [Epic-Nz](https://github.com/mdismailahammedroman/Epic_Nz)  
 - 🤝 Seeking help with **Fitness Tracking App**  
