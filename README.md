@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Md. Ismail Ahammed Roman</h1>
+<h1 align="center" style="color:#ffffff;">
+  Hi 👋, I'm Md. Ismail Ahammed Roman
+</h1>
 <h3 align="center">Software Engineer (Backend Focus) | Bangladesh</h3>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Frontend+Developer;Backend+Developer;MERN+Stack+Developer;Clean+Code+Enthusiast;Always+Learning+New+Tech" />
+</h1>
 <p align="center">
   <img src="https://github.com/mdismailahammedroman/your-repo/blob/main/avatar.gif?raw=true" alt="Md. Ismail Roman" width="150"/>
   <br>
