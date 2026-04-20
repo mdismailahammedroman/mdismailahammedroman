@@ -23,13 +23,16 @@
 ## 🛠 Languages, Frameworks & Tools
 
 ### 🔨 Languages and Tools:
-
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://golang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg" height="42px"/>
+</a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+
+
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
@@ -47,9 +50,6 @@
 </a>
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cpp/cpp.svg" height="42px"/>
-</a>
-<a href="https://golang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg" height="42px"/>
 </a>
 
 <!-- Frontend -->
@@ -69,32 +69,54 @@
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sass/sass.svg" height="42px"/>
 </a>
 
-<!-- Charts -->
-<a href="https://d3js.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/d3/d3.svg" height="42px"/>
-</a>
-<a href="https://www.chartjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/chartjs/chartjs.svg" height="42px"/>
-</a>
 
 <!-- Backend -->
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" height="42px"/>
 </a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/express/express.svg" height="42px"/>
+<p>
+
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42px"/>
 </a>
 
-<!-- Database -->
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42px"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="42px"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42px"/>
+</a>
+
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mongodb/mongodb.svg" height="42px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42px"/>
 </a>
+
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postgresql/postgresql.svg" height="42px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42px"/>
 </a>
+
 <a href="https://redis.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redis/redis.svg" height="42px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42px"/>
 </a>
+
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="42px"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42px"/>
+</a>
+
+<a href="https://www.framer.com/motion/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="42px"/>
+</a>
+
+</p>
 
 <!-- DevOps -->
 <a href="https://www.docker.com/" target="_blank">
@@ -103,9 +125,7 @@
 <a href="https://kubernetes.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg" height="42px"/>
 </a>
-<a href="https://nginx.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/nginx/nginx.svg" height="42px"/>
-</a>
+
 
 <!-- Cloud -->
 <a href="https://aws.amazon.com/" target="_blank">
@@ -114,25 +134,13 @@
 <a href="https://cloud.google.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" height="42px"/>
 </a>
-<a href="https://heroku.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/heroku/heroku.svg" height="42px"/>
-</a>
+
 
 <!-- Tools -->
 <a href="https://webpack.js.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/webpack/webpack.svg" height="42px"/>
 </a>
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postman/postman.svg" height="42px"/>
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg" height="42px"/>
-</a>
 
-<!-- Animation -->
-<a href="https://www.framer.com/motion/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/framer/framer.svg" height="42px"/>
-</a>
 
 
 ## 📊 GitHub Stats
