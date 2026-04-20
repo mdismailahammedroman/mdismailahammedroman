@@ -75,7 +75,11 @@
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" height="42px"/>
 </a>
 <p>
-
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+       height="42px"
+       style="filter: invert(44%) sepia(98%) saturate(500%) hue-rotate(85deg) brightness(90%) contrast(90%);"/>
+</a>
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42px"/>
 </a>
@@ -85,11 +89,7 @@
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="42px"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42px"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
@@ -140,7 +140,9 @@
 <a href="https://webpack.js.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/webpack/webpack.svg" height="42px"/>
 </a>
-
+<a href="https://nginx.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="42px"/>
+</a>
 
 
 ## 📊 GitHub Stats
