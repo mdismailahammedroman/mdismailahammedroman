@@ -17,18 +17,7 @@
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 ---
----
-## 🌱 About Me
-- 🔭 Currently working on [Betopia Group]
-- 🌱 Learning **Go, Python, DevOps & trending full-stack technologies**  
-- 👯 Looking to collaborate on [Epic-Nz](https://github.com/mdismailahammedroman/Epic_Nz)  
-- 🤝 Seeking help with **Fitness Tracking App**  
-- 👨‍💻 All projects available at [Portfolio](http://ismail-ahammed-roman.vercel.app/)  
-- 💬 Ask me about **React.js, Next.js, Express.js, Node.js**  
-- 📫 Reach me at **ismailahmmedroman@gmail.com**  
-- 📄 Check my experience [Google Drive](https://drive.google.com/drive/folders/1EHyGPW-5l7Cxx3Qra68IKCPrTsBEOv0a)
 
----
 ## 🛠 Languages, Frameworks & Tools
 
 ### 🔨 Languages and Tools:
