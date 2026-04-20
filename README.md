@@ -1,6 +1,6 @@
-<h1 align="center" style="color:#ffffff;">
+<p align="center" style="font-size:32px; font-weight:bold; color:white;">
   Hi 👋, I'm Md. Ismail Ahammed Roman
-</h1>
+</p>
 <h3 align="center">Software Engineer (Backend Focus) | Bangladesh</h3>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Frontend+Developer;Backend+Developer;MERN+Stack+Developer;Clean+Code+Enthusiast;Always+Learning+New+Tech" />
